@@ -73,5 +73,5 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
 
-• ❣️ <a href=https://t.me/sunriseseditsoffical6>SUNRISES HARSHA</a>
+• ❣️ <a href=https://t.me/SH24_AdminBot>SUNRISES HARSHA</a>
 """
