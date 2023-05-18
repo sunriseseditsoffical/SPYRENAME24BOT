@@ -12,7 +12,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "")
 
 DB_NAME = os.environ.get("DB_NAME","")     
 
-DB_URL = os.environ.get("DB_URL","")
+DB_URL = os.environ.get("DB_URL","mongodb+srv://TELEGRAMBOT:TELEGRAMBOT@cluster0.l9gomdd.mongodb.net/?retryWrites=true&w=majority")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
